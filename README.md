@@ -1,1 +1,1 @@
-Recipes page for The Odin Project using HTML and several basic CSS insertions.
+Recipes page for The Odin Project using HTML, basic CSS and flexbox.
