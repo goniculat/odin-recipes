@@ -68,5 +68,10 @@ ol, ul, p, h2 {
   text-align: justify;
 }
 
+a {
+  text-decoration: none;
+  color: #8B0000;
+}
+
 
 
